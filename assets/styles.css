@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+    font: 20px;
+}
+
+body {
+    background-color: white;
+}
+
+.header {
+    background-color: black;
+    padding: 25px;
+    text-align: center;
+    color: white;
+}
+
+.Selftro {
+    padding: 25px;
+
+}
