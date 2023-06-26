@@ -17,10 +17,16 @@ body {
     font-size: 35px;
 }
 
+.Self-Area {
+    display: inline-block;
+}
+
 .Selftro {
-    width: 55%;
+    width: 60%;
     padding: 25px;
     font-size: 20px;
+    float: left;
+    text-align: center;
 }
 
 .SelfImg {
@@ -28,7 +34,11 @@ body {
     margin: 25px;
     padding: 25px;
     background-color: rgb(72, 138, 232);
-    clear: none;
+}
+
+#About-Me {
+    text-align: center;
+    padding: 25px;
 }
 
 .Projects-title {
@@ -42,4 +52,26 @@ body {
 .Projects {
     font-size: 20px;
     padding: 25px;
+    text-align: center;
+}
+
+#Prework {
+    text-align: center;
+    padding: 25px;
+    font-weight: bolder;
+}
+
+.Contact {
+    background-color: black;
+    padding: 25px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+
+#Contact-Links {
+    text-align: center;
+    font-size: 20px;
+    Padding: 25px;
+
 }
