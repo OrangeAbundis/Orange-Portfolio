@@ -18,14 +18,28 @@ body {
 }
 
 .Selftro {
-    width: 65%;
+    width: 55%;
     padding: 25px;
-    display: inline-block;
     font-size: 20px;
-
 }
 
 .SelfImg {
     float: right;
+    margin: 25px;
+    padding: 25px;
+    background-color: rgb(72, 138, 232);
+    clear: none;
+}
+
+.Projects-title {
+    background-color: black;
+    padding: 25px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+
+.Projects {
+    font-size: 20px;
     padding: 25px;
 }
