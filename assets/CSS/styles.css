@@ -10,10 +10,11 @@ body {
 }
 
 .header {
-    background-color: black;
+    background-color: rgb(72, 138, 232);
     padding: 25px;
     text-align: center;
-    color: white;
+    color: orange
+    ;
     font-size: 35px;
 }
 
@@ -49,10 +50,10 @@ body {
 }
 
 .Projects-title {
-    background-color: black;
+    background-color: rgb(72, 138, 232);
     padding: 25px;
     text-align: center;
-    color: white;
+    color: orange;
     font-size: 30px;
 }
 
@@ -69,10 +70,10 @@ body {
 }
 
 .Contact {
-    background-color: black;
+    background-color: rgb(72, 138, 232);
     padding: 25px;
     text-align: center;
-    color: white;
+    color: orange;
     font-size: 30px;
 }
 
