@@ -65,13 +65,13 @@ body {
     width: 100%;
 }
 
-#Prework {
+.projectTitle{
     text-align: center;
     padding: 20px;
     font-weight: bolder;
 }
 
-#buttonimage1 {
+#buttonimage {
     text-align: center;
     scale: 30%;
 }
